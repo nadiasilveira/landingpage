@@ -8,11 +8,14 @@ color:#ffffff;}
 @media only screen and (max-device-width: 300px) {
 
 
-        background-image: url("onda.jpg") !important;
+        
+body { background-image: url("onda.jpg") !important;
         background-repeat: no-repeat !important;
         background-position: center !important;
- 
-}
+	background-size: cover; 
+text-align: center; 
+color:#ffffff; 
+	}}
 
 
 
@@ -20,7 +23,7 @@ color:#ffffff;}
 h1 {color: #ffffff; 
 	font-family: poppins; 
 	font-size: 50px;
-	padding:300px 0 0 0;
+	padding:250px 0 0 0;
 	text-shadow: 2px 0 0 0; text-shadow color: #000000; 
 	 margin: 0;}
 
