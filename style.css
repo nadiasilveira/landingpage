@@ -1,20 +1,12 @@
 
-body { background-image: url("onda bg.png"); 
+body { background-image: url ("onda bg.png"); 
 background-repeat: no-repeat;
 background-size: cover; 
+background-position: center center; 
 text-align: center; 
-color:#ffffff;}
+color:#ffffff;
+background-attachment: fixed; }
 
-.pc-img {
-  width: 100%;
-  height: 400px;
-  background: #000;
-}
-
-@media screen and (min-width: 100px) and (max-width: 480px) {
-  .pc-img {
-    background: purple;
-  }
 
 
 
