@@ -1,23 +1,26 @@
 
 body {  
-background-image: url('onda bg.png');
+background-image: url('big.jpg');
 background-repeat: no-repeat;
 background-size: cover; 
 text-align: center; 
 color:#ffffff;
  }
 
-@media only screen and (max-device-width: 500px) {
+@media only screen and (max-device-width: 800px) {
     body { 
-	    background-image: url('wp.jpg'); }
+	    background-image: url('med.jpg'); }
 	
-	h1 {color: #ffffff; 
-	font-size: 15px;
-	padding:500px 0 0 0;
-	
-	    
-   }
+
 }
+
+@media only screen and (max-device-width: 400px) {
+    body { 
+	    background-image: url('small.jpg'); }
+	
+
+}
+
 
 
 h1 {color: #ffffff; 
