@@ -7,7 +7,7 @@ text-align: center;
 color:#ffffff;
  }
 
-@media only screen and (max-device-width: 300px) {
+@media only screen and (max-device-width: 500px) {
     body { 
         background-image: url('onda.jpg'); 
    }
