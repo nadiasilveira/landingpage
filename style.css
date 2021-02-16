@@ -5,6 +5,7 @@ background-repeat: no-repeat;
 background-size: cover; 
 text-align: center; 
 color:#ffffff;
+margin: auto;
  }
 
 
@@ -24,11 +25,7 @@ color:#ffffff;
 }
 
 
-.center {
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
+
 
 h1 {color: #ffffff; 
 	font-family: "poppins"; 
