@@ -17,7 +17,7 @@ margin: auto;
 
 }
 
-@media only screen and (max-device-width: 400px) {
+@media only screen and (max-device-width: 420px) {
     body { 
 	    background-image: url('small.jpg'); }
 	
